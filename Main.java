@@ -41,11 +41,11 @@ public class Main {
         System.out.println("\n---- PROCESO DE SELECCION: AGREGANDO 3 PILOTOS A ESCOGIDOS ----");
         
         // Primer piloto escogido
-        System.out.println("\n Primera selección:");
+        System.out.println("\n Primera seleccion:");
         toyota.escogerPiloto(); // Deberia escoger a HAMILTON (110 puntos)
         
         // Segundo piloto escogido  
-        System.out.println("\n Segunda selección:");
+        System.out.println("\n Segunda seleccion:");
         ferrari.escogerPiloto(); // Deberia escoger a ADRIAN (90 puntos)
         
         // Tercer piloto escogido
