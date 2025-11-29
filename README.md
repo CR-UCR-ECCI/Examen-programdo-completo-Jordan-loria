@@ -6,6 +6,7 @@ Jordan Loria Altamirano/Carnet: C5G645
 Ejecución
 
 javac *.java
+
 java Main
 
 Funcionalidades
